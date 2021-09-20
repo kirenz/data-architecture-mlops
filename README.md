@@ -7,7 +7,7 @@
 
 - [MLOps, feature stores, mlflow, Kubeflow](https://github.com/kirenz/data-architecture-mlops/blob/main/slides/mlops_feature_stores_mlflow_kubeflow.pdf)
 
-- [MLOps, feature stores, mlflow, Kubeflow](https://github.com/kirenz/data-architecture-mlops/blob/main/slides/mlops_feature_stores_mlflow_kubeflow.pdf)
+- [MLOps, feature stores, mlflow, Kubeflow](https://github.com/kirenz/data-architecture-mlops/blob/main/slides/pipelines_tfx_kubeflow.pdf)
 
 
 ### Machine Learning Operations (MLOps)
