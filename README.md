@@ -1,6 +1,6 @@
 # Data architecture & MLOps 
 
-![](img/img.jpg)
+![](img/img.png)
 
 
 **Slides**
