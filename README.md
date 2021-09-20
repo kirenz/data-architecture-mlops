@@ -5,7 +5,7 @@
 
 ### Slides
 
-- [Usage of Pipelines in the ML Lifecycle with Tensor Flow Extended (TFX) and Kubeflow](https://www.kirenz.com/slides/ml-pipelines-ai-community.pdf)
+- [MLOps, feature stores, mlflow, Kubeflow](https://github.com/kirenz/data-architecture-mlops/blob/main/slides/mlops_feature_stores_mlflow_kubeflow.pdf)
 
 
 ### Machine Learning Operations (MLOps)
