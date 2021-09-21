@@ -1,6 +1,6 @@
 # Data Architecture & MLOps 
 
-![](./img/img.jpg)
+![](img/img.jpg)
 
 
 ### Slides
