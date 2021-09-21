@@ -35,6 +35,9 @@
 - 💻 [Local installation of Kubeflow (MiniKF)](https://kirenz.github.io/codelabs/codelabs/kubeflow-install/#0)
 - 💻 [Build your first Kubeflow pipeline](https://kirenz.github.io/codelabs/codelabs/kubeflow-pipeline/#0)
 
+
+---
+
 ### Resources
 
 [Armbrust, M., Ghodsi, A., Xin, R. & Zaharia, M. (2021). Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics. 11th Annual Conference on Innovative Data Systems Research (CIDR ’21), January 11–15, 2021](https://databricks.com/de/wp-content/uploads/2020/12/cidr_lakehouse.pdf)
