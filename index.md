@@ -1,6 +1,6 @@
-# Welcome to data architecture & MLOps 
+# Welcome to Data Architecture & MLOps 
 
-![](img/img.jpg)
+![](./img/img.jpg)
 
 
 ### Slides
