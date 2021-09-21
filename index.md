@@ -2,9 +2,17 @@
 
 <img src="img/img.jpg" alt="" class="inline"/>
 
-### Slides
+### Project organisation
 
 - [Projektvorstellung](https://github.com/kirenz/data-architecture-mlops/blob/main/slides/project.pdf)
+
+- [Projekt-Bewertung](https://github.com/kirenz/data-architecture-mlops/blob/main/slides/orga_intro.pdf)
+
+- [Projekt-Dokumentation](https://github.com/kirenz/data-architecture-mlops/blob/main/slides/orga_doku.pdf)
+
+- [Hinweise zur Recherche](https://github.com/kirenz/data-architecture-mlops/blob/main/slides/orga_recherche.pdf)
+
+### Slides
 
 - [Introduction to MLOps](https://github.com/kirenz/data-architecture-mlops/blob/main/slides/mlops_feature_stores_mlflow_kubeflow.pdf)
 
