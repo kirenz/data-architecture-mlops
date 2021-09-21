@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Welcome to data architecture & MLOps 
 
-You can use the [editor on GitHub](https://github.com/kirenz/data-architecture-mlops/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![](img/img.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Slides
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Projektvorstellung](https://github.com/kirenz/data-architecture-mlops/blob/main/slides/project.pdf)
 
-```markdown
-Syntax highlighted code block
+- [Introduction to MLOps](https://github.com/kirenz/data-architecture-mlops/blob/main/slides/mlops_feature_stores_mlflow_kubeflow.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+- [Usage of Pipelines in the ML Lifecycle with TFX and Kubeflow](https://github.com/kirenz/data-architecture-mlops/blob/main/slides/pipelines_tfx_kubeflow.pdf)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Machine Learning Operations (MLOps)
 
-[Link](url) and ![Image](src)
-```
+*TensorFlow and TensorFlow Extended (TFX)*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 💻 [Local installation of TensorFlow & TensorFlow Extended](https://kirenz.github.io/codelabs/codelabs/tfx-install/#0)
+- 💻 [Build your first TFX pipeline](https://kirenz.github.io/codelabs/codelabs/tfx-pipeline-taxi/#0)
 
-### Jekyll Themes
+*Kubeflow*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kirenz/data-architecture-mlops/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 💻 [Local installation of Kubeflow (MiniKF)](https://kirenz.github.io/codelabs/codelabs/kubeflow-install/#0)
+- 💻 [Build your first Kubeflow pipeline](https://kirenz.github.io/codelabs/codelabs/kubeflow-pipeline/#0)
