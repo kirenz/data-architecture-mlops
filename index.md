@@ -1,7 +1,6 @@
 ## Welcome to Data Architecture & MLOps 
 
-![](./img/img.jpg)
-
+<img src="img/img.jpg" alt="" class="inline"/>
 
 ### Slides
 
