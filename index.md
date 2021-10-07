@@ -27,7 +27,7 @@
 
 *Delta Lake*
 
-- [Delta Lake Set Up (with PySpark 3.1.2.)](https://github.com/kirenz/deltalake/blob/main/README.md)
+- [Delta Lake Set Up (with PySpark 3.1.2.)](https://github.com/kirenz/deltalake)
 
 
 *Data Streaming*
