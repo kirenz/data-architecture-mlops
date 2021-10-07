@@ -23,7 +23,18 @@
 
 ---
 
-### MLOps Technology Tutorials
+### Technology Tutorials
+
+*Delta Lake*
+
+- [Delta Lake Set Up (use PySpark 3.1.2.)](https://docs.delta.io/latest/quick-start.html#create-a-table&language-python)
+
+
+*Data Streaming*
+
+- [Structured Streaming with Spark](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#structured-streaming-programming-guide)
+
+
 
 *TensorFlow and TensorFlow Extended (TFX)*
 
@@ -34,16 +45,6 @@
 
 - 💻 [Local installation of Kubeflow (MiniKF)](https://kirenz.github.io/codelabs/codelabs/kubeflow-install/#0)
 - 💻 [Build your first Kubeflow pipeline](https://kirenz.github.io/codelabs/codelabs/kubeflow-pipeline/#0)
-
-
-*Delta Lake*
-
-- [Delta Lake Set Up (use PySpark 3.1.2.)](https://docs.delta.io/latest/quick-start.html#create-a-table&language-python)
-
-
-*Data Streaming*
-
-- [Structured Streaming with Spark](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#structured-streaming-programming-guide)
 
 
 ---
