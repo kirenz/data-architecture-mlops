@@ -27,10 +27,12 @@
 
 *Delta Lake*
 
-- [Delta Lake Set Up (use PySpark 3.1.2.)](https://docs.delta.io/latest/quick-start.html#create-a-table&language-python)
+- [Delta Lake Set Up (with PySpark 3.1.2.)](https://github.com/kirenz/deltalake/blob/main/README.md)
 
 
 *Data Streaming*
+
+- [Make a mock “real-time” data stream with Python and Kafka]()
 
 - [Structured Streaming with Spark](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#structured-streaming-programming-guide)
 
