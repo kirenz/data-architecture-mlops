@@ -38,7 +38,8 @@
 
 *Delta Lake*
 
-- [Delta Lake Set Up (use PySpark 3.1.2.)]https://docs.delta.io/latest/quick-start.html#create-a-table&language-python
+- [Delta Lake Set Up (use PySpark 3.1.2.)](https://docs.delta.io/latest/quick-start.html#create-a-table&language-python)
+
 
 *Data Streaming*
 
