@@ -35,7 +35,7 @@
 
 *Delta Lake*
 
-- [Delta Lake Installation tutorial (with PySpark 3.1.2.)](https://github.com/kirenz/deltalake)
+- 💻 [Delta Lake Installation tutorial (with PySpark 3.1.2.)](https://github.com/kirenz/deltalake)
 
 - [Natively Query Your Delta Lake With Scala, Java, and Python (Tutorial)](https://databricks.com/de/blog/2020/12/22/natively-query-your-delta-lake-with-scala-java-and-python.html)
 
