@@ -51,6 +51,13 @@ The Delta Lake is the recommended technology in this course.
 - [Armbrust, M., Ghodsi, A., Xin, R. & Zaharia, M. (2021). Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics. 11th Annual Conference on Innovative Data Systems Research (CIDR ’21), January 11–15, 2021](https://databricks.com/de/wp-content/uploads/2020/12/cidr_lakehouse.pdf)
 
 
+*Hadoop Ecosystem*
+
+Hadoop is an ecosystem of open source components that fundamentally changes the way enterprises store, process, and analyze data. Unlike traditional systems, Hadoop enables multiple types of analytic workloads to run on the same data, at the same time, at massive scale on industry-standard hardware (source: [Cloudera](https://www.cloudera.com/products/open-source/apache-hadoop.html)):
+
+<img src="img/hadoop.png" alt="" class="inline"/>
+
+
 *Data Streaming*
 
 
