@@ -23,16 +23,25 @@
 
 ---
 
-### Technology Tutorials
+### Tutorials
+
+*Concept of Data Lakehouse*
+
+- [Inmon, B., Levins, M. & Srivastava, R. (2021). Building the Data Lakehouse. Technics Publications, NY.](https://drive.google.com/file/d/1bURUyz-zSSCdT_k-MNjuFO0Gbq4vDkvt/view?usp=sharing)
+
+- [Inmon, B. & Levins, M. (2021). Evolution to the Data Lakehouse. Databricks Blog.](https://databricks.com/de/blog/2021/05/19/evolution-to-the-data-lakehouse.html)
+
+
 
 *Delta Lake*
 
 - [Delta Lake Set Up (with PySpark 3.1.2.)](https://github.com/kirenz/deltalake)
 
+- [Armbrust, M., Ghodsi, A., Xin, R. & Zaharia, M. (2021). Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics. 11th Annual Conference on Innovative Data Systems Research (CIDR ’21), January 11–15, 2021](https://databricks.com/de/wp-content/uploads/2020/12/cidr_lakehouse.pdf)
+
 
 *Data Streaming*
 
-- [Make a mock “real-time” data stream with Python and Kafka]()
 
 - [Structured Streaming with Spark](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#structured-streaming-programming-guide)
 
@@ -53,7 +62,6 @@
 
 ### Resources
 
-[Armbrust, M., Ghodsi, A., Xin, R. & Zaharia, M. (2021). Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics. 11th Annual Conference on Innovative Data Systems Research (CIDR ’21), January 11–15, 2021](https://databricks.com/de/wp-content/uploads/2020/12/cidr_lakehouse.pdf)
 
 [Baer, J. & Samuel Ngahane, S. (2019). The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow.]( https://engineering.atspotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/)
 
