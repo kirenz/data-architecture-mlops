@@ -31,6 +31,8 @@
 
 - [Inmon, B. & Levins, M. (2021). Evolution to the Data Lakehouse. Databricks Blog.](https://databricks.com/de/blog/2021/05/19/evolution-to-the-data-lakehouse.html)
 
+- Open Source Data Lakehouse solutions: [Delta Lake](https://delta.io) (provided by Databricks); [Apache Hudi](https://hudi.apache.org) (provided by Uber); [Apache Iceberg](https://iceberg.apache.org) (provided by Netflix)
+
 
 
 *Delta Lake*
