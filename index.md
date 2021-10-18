@@ -75,6 +75,14 @@ Hadoop is an ecosystem of open source components that fundamentally changes the 
 - 💻 [Local installation of Kubeflow (MiniKF)](https://kirenz.github.io/codelabs/codelabs/kubeflow-install/#0)
 - 💻 [Build your first Kubeflow pipeline](https://kirenz.github.io/codelabs/codelabs/kubeflow-pipeline/#0)
 
+*Apache Airflow*
+
+- 💻 [Local installation of Apache Airflow](https://kirenz.github.io/codelabs/codelabs/airflow-setup/#0)
+
+
+*Build Dashboards with Plotly Dash*
+
+- 💻 [Dash installation guide](https://github.com/kirenz/dash-tutorial)
 
 ---
 
