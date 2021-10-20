@@ -12,6 +12,10 @@
 
 - [Hinweise zur Recherche](https://github.com/kirenz/data-architecture-mlops/blob/main/slides/orga_recherche.pdf)
 
+
+
+- [**Anleitung zu Erstellung eines Jupyter Books (für die Dokumentation bei GitHub)**](https://kirenz.github.io/codelabs/codelabs/jupyter-book/#0))
+
 ---
 
 ### Slides
