@@ -30,6 +30,7 @@
 ### Tutorials
 
 
+---
 
 *Google Cloud Tutorials*
 
@@ -39,6 +40,8 @@ Note that this demo could result in charges to your Google Cloud account. Theref
 
 - [Setting up an MLOps environment on GCP](https://github.com/GoogleCloudPlatform/mlops-on-gcp/tree/master/examples/mlops-env-on-gcp)
 
+
+---
 
 *Concept of Data Lakehouse*
 
@@ -51,7 +54,7 @@ Note that this demo could result in charges to your Google Cloud account. Theref
   - [Apache Hudi](https://hudi.apache.org) (provided by Uber)
   - [Apache Iceberg](https://iceberg.apache.org) (provided by Netflix)
 
-
+---
 
 *Delta Lake*
 
@@ -66,12 +69,16 @@ The Delta Lake is the recommended technology in this course.
 - [Armbrust, M., Ghodsi, A., Xin, R. & Zaharia, M. (2021). Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics. 11th Annual Conference on Innovative Data Systems Research (CIDR ’21), January 11–15, 2021](https://databricks.com/de/wp-content/uploads/2020/12/cidr_lakehouse.pdf)
 
 
+---
+
+
 *Hadoop Ecosystem*
 
 Hadoop is an ecosystem of open source components that fundamentally changes the way enterprises store, process, and analyze data. Unlike traditional systems, Hadoop enables multiple types of analytic workloads to run on the same data, at the same time, at massive scale on industry-standard hardware (source: [Cloudera](https://www.cloudera.com/products/open-source/apache-hadoop.html)):
 
 <img src="img/hadoop.png" alt="" class="inline"/>
 
+---
 
 *Data Streaming*
 
@@ -79,7 +86,7 @@ Hadoop is an ecosystem of open source components that fundamentally changes the 
 - [Structured Streaming with Spark](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#structured-streaming-programming-guide)
 
 
-
+---
 
 
 *TensorFlow and TensorFlow Extended (TFX)*
@@ -87,21 +94,28 @@ Hadoop is an ecosystem of open source components that fundamentally changes the 
 - 💻 [Local installation of TensorFlow & TensorFlow Extended](https://kirenz.github.io/codelabs/codelabs/tfx-install/#0)
 - 💻 [Build your first TFX pipeline](https://kirenz.github.io/codelabs/codelabs/tfx-pipeline-taxi/#0)
 
+---
+
 *Kubeflow*
 
 - 💻 [Local installation of Kubeflow (MiniKF)](https://kirenz.github.io/codelabs/codelabs/kubeflow-install/#0)
 - 💻 [Build your first Kubeflow pipeline](https://kirenz.github.io/codelabs/codelabs/kubeflow-pipeline/#0)
+
+---
 
 *Apache Airflow*
 
 - 💻 [Local installation of Apache Airflow](https://kirenz.github.io/codelabs/codelabs/airflow-setup/#0)
 
 
+---
+
 *Build Dashboards with Plotly Dash*
 
 - 💻 [Dash installation guide](https://github.com/kirenz/dash-tutorial)
 
 ---
+
 
 ### Resources
 
