@@ -29,6 +29,17 @@
 
 ### Tutorials
 
+
+
+*Google Cloud Tutorials*
+
+Note that this demo could result in charges to your Google Cloud account. Therefore, do not run the pipeline:
+
+- [TFX on Google Cloud](https://www.tensorflow.org/tfx/tutorials/tfx/cloud-ai-platform-pipelines)
+
+- [Setting up an MLOps environment on GCP](https://github.com/GoogleCloudPlatform/mlops-on-gcp/tree/master/examples/mlops-env-on-gcp)
+
+
 *Concept of Data Lakehouse*
 
 - [Inmon, B., Levins, M. & Srivastava, R. (2021). Building the Data Lakehouse. Technics Publications, NY.](https://drive.google.com/file/d/1bURUyz-zSSCdT_k-MNjuFO0Gbq4vDkvt/view?usp=sharing)
@@ -67,12 +78,6 @@ Hadoop is an ecosystem of open source components that fundamentally changes the 
 
 - [Structured Streaming with Spark](https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html#structured-streaming-programming-guide)
 
-
-*Google Cloud Tutorials*
-
-Note that this demo could result in charges to your Google Cloud account. Therefore, do not run the pipeline:
-
-- [TFX on Google Cloud](https://www.tensorflow.org/tfx/tutorials/tfx/cloud-ai-platform-pipelines)
 
 
 
