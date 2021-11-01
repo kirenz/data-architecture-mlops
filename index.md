@@ -45,7 +45,7 @@ Note that this demo could result in charges to your Google Cloud account. Theref
 
 *Concept of Data Lakehouse*
 
-- [Inmon, B., Levins, M. & Srivastava, R. (2021). Building the Data Lakehouse. Technics Publications, NY.](https://drive.google.com/file/d/1bURUyz-zSSCdT_k-MNjuFO0Gbq4vDkvt/view?usp=sharing)
+- IMPORTANT: [Inmon, B., Levins, M. & Srivastava, R. (2021). Building the Data Lakehouse. Technics Publications, NY.](https://drive.google.com/file/d/1bURUyz-zSSCdT_k-MNjuFO0Gbq4vDkvt/view?usp=sharing)
 
 - [Inmon, B. & Levins, M. (2021). Evolution to the Data Lakehouse. Databricks Blog.](https://databricks.com/de/blog/2021/05/19/evolution-to-the-data-lakehouse.html)
 
